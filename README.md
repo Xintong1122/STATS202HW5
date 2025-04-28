@@ -38,7 +38,7 @@ This project investigates factors influencing high school students' mathematics 
 | Low (Alo=1)        | 30.7%        | 15.6%                  |
 | High (Alo=5)       | 23.3%        | 21.3%                  |
 
-#### 4. Gender Neutrality
+### 4. Gender Neutrality
 | Gender | Failure Rate | Good Grade Probability |
 |-----------|--------------|------------------------|
 | Femal     | 27.4%        | 27.8%                  |
